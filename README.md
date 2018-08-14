@@ -1,3 +1,2 @@
 # small-projects
-##Short Wyncode Answers##
-
+## Short Wyncode Answers
